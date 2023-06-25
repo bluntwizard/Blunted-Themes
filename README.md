@@ -19,9 +19,9 @@ Only observed drawback to Page Manipulator over Stylus so far is that Page Manip
 
 [Copy-Paste/ Download](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals.html)
 
-![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/Screenshot_20230625_133726.png)
+![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals1.png)
 
-![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/Screenshot_20230625_133820.png)
+![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals2.png)
 
 # Plugins
 
