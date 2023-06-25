@@ -9,6 +9,15 @@ Activate within Page Manipulator and reload page to apply changes.
 
 ## Portals
 
+[Copy-Paste/ Download](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals.html)
+
 ![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/Screenshot_20230625_133726.png)
 
 ![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/Screenshot_20230625_133820.png)
+
+
+## Hovercards
+
+[Copy-Paste/ Download](https://github.com/bluntwizard/Blunted-Themes/blob/main/hovercards.user.js)
+
+![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/07ad291d-7fe6-469c-b6c9-a939fb364944.png)
