@@ -29,7 +29,7 @@ Only observed drawback to Page Manipulator over Stylus so far is that Page Manip
 
 ### Hovercards - JAVA
 
-Created by [Lemmygod](https://github.com/lemmygod/lemmy-hovercards)
+Created by [Lemmygod](https://github.com/lemmygod/lemmy-hovercards) [LICENSE](https://github.com/lemmygod/lemmy-hovercards/blob/main/LICENSE)
 
 [Copy-Paste/ Download](https://github.com/bluntwizard/Blunted-Themes/blob/main/hovercards.user.js)
 
