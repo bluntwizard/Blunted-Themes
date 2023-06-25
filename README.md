@@ -21,7 +21,7 @@ Only observed drawback to Page Manipulator over Stylus so far is that Page Manip
 
 ![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals1.png)
 
-![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals2.png)
+![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals02.png)
 
 # Plugins
 
