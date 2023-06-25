@@ -1,9 +1,9 @@
 # Blunted-Themes
-HTML, CSS, and JAVA to modify and add functionality to websites.
+HTML, CSS, and JavaScript to modify and add functionality to websites.
 
 Reccomended to use 'Page Manipulator' extension from the [Chrome Store](https://chrome.google.com/webstore/detail/page-manipulator/mdhellggnoabbnnchkeniomkpghbekko) or [Github](https://github.com/Ruud14/Page-Manipulator).
 
-Page Manipulator can inject HTML, CSS, and JAVA.
+Page Manipulator can inject HTML, CSS, and JavaScript.
 
 Copy-paste code into Page Manipulator.
 
