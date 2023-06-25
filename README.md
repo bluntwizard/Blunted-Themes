@@ -3,15 +3,15 @@ HTML, CSS, and JAVA to modify and add functionality to websites.
 
 Reccomended to use 'Page Manipulator' extension from the [Chrome Store](https://chrome.google.com/webstore/detail/page-manipulator/mdhellggnoabbnnchkeniomkpghbekko) or [Github](https://github.com/Ruud14/Page-Manipulator).
 
+Page Manipulator can inject HTML, CSS, and JAVA.
+
 Copy-paste code into Page Manipulator.
 
 Activate within Page Manipulator and reload page to apply changes.
 
-Only observed drawback to Page Manipulator over Stylus so far is that Page Manipulator is not capable of 'Live Preview' editing and you must reload the page upon making changes to see them take effect.
+Only observed drawback to Page Manipulator over Stylus is that Page Manipulator is not capable of 'Live Preview' editing, you must reload the page upon making changes to see them take effect.
 
-# Themes
-
-## LEMMY
+## **LEMMY THEMES**
 
 ### Portals - HTML
 
