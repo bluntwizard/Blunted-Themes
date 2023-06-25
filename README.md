@@ -25,9 +25,9 @@ It is not recommended to use stylus, without HTML injection live wallpaper will 
 
 [Copy-Paste/ Download](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals.html)
 
-![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals1.png)
+![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals001.png)
 
-![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals02.png)
+![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals002.png)
 
 ## LEMMY PLUGINS
 
