@@ -19,6 +19,8 @@ It is not recommended to use stylus, without HTML injection live wallpaper will 
 
 ***4K animated background***
 
+*Written for use with* ***sh.itjust.works*** *milage may vary.*
+
 *Hovercards plugin recommended*
 
 [Copy-Paste/ Download](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals.html)
