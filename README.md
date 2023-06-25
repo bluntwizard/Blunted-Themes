@@ -15,6 +15,10 @@ Only observed drawback to Page Manipulator over Stylus is that Page Manipulator 
 
 ### Portals - HTML
 
+**Full restyle**
+
+***4K animated background***
+
 *Hovercards plugin recommended*
 
 [Copy-Paste/ Download](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals.html)
