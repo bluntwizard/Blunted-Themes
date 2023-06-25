@@ -7,7 +7,13 @@ Copy-paste code into Page Manipulator.
 
 Activate within Page Manipulator and reload page to apply changes.
 
-## Portals - HTML
+# Themes
+
+## LEMMY
+
+### Portals - HTML
+
+*Hovercards plugin recommended*
 
 [Copy-Paste/ Download](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals.html)
 
@@ -15,8 +21,13 @@ Activate within Page Manipulator and reload page to apply changes.
 
 ![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/Screenshot_20230625_133820.png)
 
+# Plugins
 
-## Hovercards - JAVA
+## LEMMY
+
+### Hovercards - JAVA
+
+Created by [Lemmygod](https://github.com/lemmygod/lemmy-hovercards)
 
 [Copy-Paste/ Download](https://github.com/bluntwizard/Blunted-Themes/blob/main/hovercards.user.js)
 
