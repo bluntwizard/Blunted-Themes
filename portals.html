@@ -23,15 +23,15 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: RGB(255,255,255, .2); 
+  background: rgb(255,255,255, .2); 
 }
  
 ::-webkit-scrollbar-thumb {
-  background: RGB(255,255,255, .4); 
+  background: rgb(255,255,255, .4); 
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: RGB(255,255,255, .5); 
+  background: rgb(255,255,255, .5); 
 }
     
 /*
@@ -183,7 +183,7 @@ hr {
 }
 
 /*
-RESIZE CARDS, FORCE AT TOP RIGHT, ADJUST WIDTH
+RESIZE CARDS, FORCE AT TOP RIGHT, ADJUST WIDTH, ALLOW SCROLLING
 */
 .d-md-block {
     display: block !important;
@@ -195,6 +195,14 @@ RESIZE CARDS, FORCE AT TOP RIGHT, ADJUST WIDTH
     overflow: auto;
     max-height: 93.25%;
 }
+
+/*
+HIDE COMMUNITY CARD SCROLL BAR
+*/
+.d-md-block::-webkit-scrollbar {
+  display: none;
+}
+
 
 /*
 CHANGE SIDE CARD TEXT COLOR, AND BACKGROUND COLOR
