@@ -7,6 +7,8 @@ Copy-paste code into Page Manipulator.
 
 Activate within Page Manipulator and reload page to apply changes.
 
+Only observed drawback to Page Manipulator over Stylus so far is that Page Manipulator is not capable of 'Live Preview' editing and you must reload the page upon making changes to see them take effect.
+
 # Themes
 
 ## LEMMY
