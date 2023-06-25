@@ -6,3 +6,9 @@ Reccomended to use 'Page Manipulator' extension from the Chrome Store or Github.
 Copy-paste code into Page Manipulator.
 
 Activate within Page Manipulator and reload page to apply changes.
+
+Portals
+
+![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/Screenshot_20230625_133726.png)
+
+![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/Screenshot_20230625_133820.png)
