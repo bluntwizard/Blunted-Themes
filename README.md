@@ -23,9 +23,7 @@ Only observed drawback to Page Manipulator over Stylus is that Page Manipulator 
 
 ![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals02.png)
 
-# Plugins
-
-## LEMMY
+## LEMMY PLUGINS
 
 ### Hovercards - JAVA
 
