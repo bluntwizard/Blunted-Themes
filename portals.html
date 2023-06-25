@@ -1,0 +1,245 @@
+<!--
+EMBED YOUTUBE PLAYER, URL PARAMATERS ARE MEANT TO MUTE THE VIDEO, UNBRAND, AUTOHIDE, NO INFO, NO CONTROLS, AUTOPLAY, AND LOOP AT 4K. SOME PARAMATERS MAY BE BROKEN.
+-->
+
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/nPQ4BpTfK1Q?rel=0?version=3&amp;mute=1&amp;modestbranding=1&amp;autohide=1&amp;showinfo=0&amp;controls=0&amp;autoplay=1&amp;loop=1&amp;vq=hd2160" title="YouTube video player" frameborder="0" allow="autoplay" allowfullscreen=""></iframe>
+
+<!--
+CSS THEME
+-->
+
+<style id="portal" type="text/css" class="theme">
+
+<!--
+CHANGE FONT COLOR IN TAGLINE
+-->
+
+body {
+    color: #adb5bd;
+}
+
+<!--
+RESIZE IFRAME TO AVOID BLACK BARS ON IMPROPER ASPECT RATIOS, CENTERED AS BACKGROUND BEHIND ALL OTHER ELEMENTS
+-->
+
+iframe {
+    position: fixed !important;
+    width: 140%;
+    height: 140%;
+    left: -20vw;
+    top: -20vh;
+    z-index: -1 !important;
+}
+
+<!--
+CHANGE COLOR OF NAVBAR TEXT, ALPHA VISUALLY MATCHED TO .COL-12, FORCED AT TOP OVER ALL OTHER ELEMENTS
+-->
+
+.navbar {
+    --bs-navbar-color: #f1641e !important;
+    --bs-navbar-hover-color: #f1641eab !important;
+    --bs-navbar-brand-color: #f1641e !important;
+    --bs-navbar-brand-hover-color: #f1641eab !important;
+    background-color: rgb(0,0,0, 0.62);
+    position: fixed;
+    z-index: 10;
+    width: 100vw;
+}
+
+<!--
+CHANGE NAVBAR PROFILE TEXT COLOR
+-->
+
+.btn {
+    --bs-btn-color: #adb5bd;
+}
+
+<!--
+CHANGE NAVBAR DROPDOWN PROFILE MENU COLOR
+-->
+
+.dropdown-menu {
+    --bs-dropdown-bg: #adb5bdc7;
+    --bs-dropdown-link-hover-bg: #adb5bd;
+}
+
+
+<!--
+FORCE NAVBAR AND FOOTER TO SPAN WIDTH OF DISPLAY
+-->
+
+.container-lg {
+    max-width: 100vw;
+    width: 100vw;
+}
+
+
+<!--
+FORCE FOOTER AT BOTTOM
+-->
+
+footer {
+    position: fixed !important;
+    bottom:0;
+}
+
+<!--
+HIDE FOOTER OPTIONS
+-->
+
+.ms-auto {
+    display: none;
+
+}
+
+<!--
+FORCE FOOTER BEHIND ALL ELEMENTS EXCEPT IFRAME, SPAN HEIGHT OF DISPLAY TO REPLACE .MT-4 AS OVERLAY TO DISALLOW IFRAME INTERACTION AND ACT AS A DARKENING FILTER
+-->
+
+.p-3 {
+    padding: 1rem !important;
+    height: 100vh !important;
+    z-index: -1 !important;
+    background-color: rgb(0,0,0, 0.33) !important;
+}
+
+<!--
+MAKE MAIN BACKGROUND TRANSPARENT
+-->
+
+.mt-4 {
+background-color: rgb(0,0,0, 0.0) !important;
+}
+
+<!--
+POSITION MAIN CONTENT FROM NAVBAR
+-->
+
+.p-0.fl-1{
+    padding-top: 3.5rem !important;
+    margin-top: 0 !important;
+}
+
+<!--
+ALLIGN MAIN COLUMN LEFT, SPAN 50% OF DISPLAY
+-->
+
+.col-12.col-md-8{
+    background-color: rgb(0,0,0, 0.6);
+    position: absolute;
+    width: 50%;
+    left: 0px;
+}
+
+<!--
+CHANGE MAIN COLUMN TEXT COLOR
+-->
+
+.text-body {
+    color: #adb5bdfa !important;
+}
+
+<!--
+CHANGE MAIN COLUMN BUTTON COLOR
+-->
+
+.text-muted {
+    color: #adb5bd8f !important;
+}
+
+<!--
+CHANGE COLOR OF MAIN COLUMN SORT OPTIONS DROP DOWN MENU
+-->
+
+.me-2 {
+    background-color: rgb(255,255,255, 0.66);
+}
+
+<!--
+CHANGE TRANSPARANCY AND THICKNESS OF MAIN COLUMN DIVIDERS
+-->
+
+hr {
+    border: 2px;
+    border-top: solid rgb(73, 80, 87);
+}
+
+<!--
+RESIZE CARDS, FORCE AT TOP RIGHT, ADJUST WIDTH
+-->
+
+.d-md-block {
+    display: block !important;
+    position: fixed;
+    width: 22%;
+    right: 0;
+    margin-top: 0.7rem;
+}
+
+<!--
+CHANGE SIDE CARD TEXT COLOR, AND BACKGROUND COLOR
+-->
+
+.card {
+    --bs-card-bg: rgb(0,0,0, 0.6) !important;
+    --bs-card-color: #adb5bdc7 !important;
+    color: #adb5bd;
+}
+
+<!--
+CHANGE CARD COMMUNITY DISCRIPTION TEXT COLOR
+-->
+
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+    color: #adb5bd !important;
+}
+
+<!--
+CHANGE CARD BOARDER
+-->
+
+.border-secondary {
+    border-color: rgb(255,255,255, .25) !important;
+}
+
+<!--
+CHANGE COLOR OF TEXTBOX
+-->
+
+.form-control {
+    background-color: #222;
+}
+
+.bg-light {
+    background-color: rgb(0,0,0, .75) !important;
+}
+
+<!--
+CHANGE COLOR OF TEXTBOX ON FOCUS
+-->
+
+.form-control:focus {
+    color: #adb5bd !important;
+    background-color: #222;
+}
+
+<!--
+ADJUST LAYOUT OF COMMENT THREADS
+-->
+
+.mark,mark {border-radius: 20px;}
+.comment:not(.ml-1) {
+    margin-top: -1px;
+    padding: 0 2em;
+}
+
+<!--
+TRANSPARANT BACKGROUND BEHIND PROFILE TYPE PHOTOS
+-->
+
+.rounded-circle {
+    border-radius: 50% !important;
+    background-color: rgb(255,255,255, .55);
+}
+
+</style>
