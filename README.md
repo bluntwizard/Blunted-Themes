@@ -19,7 +19,7 @@ It is not recommended to use stylus, without HTML injection live wallpaper will 
 
 ***4K animated background***
 
-*Written for use with* ***sh.itjust.works*** *milage may vary.*
+Requires lemmy-ui 0.18+, based on Bootstrap 5.3.0.
 
 *Hovercards plugin recommended*
 
