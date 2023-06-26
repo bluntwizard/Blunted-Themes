@@ -31,7 +31,7 @@ Requires lemmy-ui 0.18+, based on Bootstrap 5.3.0.
 
 ## LEMMY PLUGINS
 
-### Hovercards - JAVA
+### Hovercards - JavaScript
 
 Created by [Lemmygod](https://github.com/lemmygod/lemmy-hovercards) - [LICENSE](https://github.com/lemmygod/lemmy-hovercards/blob/main/LICENSE)
 
