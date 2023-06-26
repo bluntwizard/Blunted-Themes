@@ -1,15 +1,28 @@
 # Blunted-Themes
+
 HTML, CSS, and JavaScript to modify and add functionality to websites.
 
-Reccomended to use 'Page Manipulator' extension from the [Chrome Store](https://chrome.google.com/webstore/detail/page-manipulator/mdhellggnoabbnnchkeniomkpghbekko) or [Github](https://github.com/Ruud14/Page-Manipulator).
 
-Page Manipulator can inject HTML, CSS, and JavaScript.
+# Usage Instructions
 
-Copy-paste code into Page Manipulator.
+## Browser-Extension Requirements
 
-Activate within Page Manipulator and reload page to apply changes.
+### **Reccomended to use 'Page Manipulator' extension from the [Chrome Store](https://chrome.google.com/webstore/detail/page-manipulator/mdhellggnoabbnnchkeniomkpghbekko) or [Github](https://github.com/Ruud14/Page-Manipulator).**
 
-It is not recommended to use stylus, without HTML injection live wallpaper will not work.
+**Page Manipulator is able to inject HTML, CSS, and JavaScript.**
+
+    
+## Installation
+  
+**Copy-paste code into Page Manipulator.**
+
+**Activate within Page Manipulator, reload page to apply changes.**
+
+
+## Notice
+  
+### **It is _NOT_ recommended to use stylus, without HTML injection live wallpaper will _NOT_ work.**
+
 
 # **LEMMY THEMES**
 
