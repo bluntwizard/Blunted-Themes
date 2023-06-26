@@ -11,30 +11,34 @@ Activate within Page Manipulator and reload page to apply changes.
 
 It is not recommended to use stylus, without HTML injection live wallpaper will not work.
 
-## **LEMMY THEMES**
+# **LEMMY THEMES**
 
-### Portals - HTML
+## Portals - HTML
 
-**Full restyle**
+### **Full restyle**
 
-***4K animated background***
+### ***4K animated background***
 
-Requires lemmy-ui 0.18+, based on Bootstrap 5.3.0.
+**Requires lemmy-ui 0.18+, based on Bootstrap 5.3.0.**
 
-[*Hovercards plugin recommended*]()
+***[Hovercards plugin recommended](https://github.com/lemmygod/lemmy-hovercards)***
 
-[Copy-Paste/ Download](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals.html)
+### **[Copy-Paste/ Download](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals.html)**
+
 
 ![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals001.png)
 
+
 ![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/portals002.png)
 
-## LEMMY PLUGINS
 
-### Hovercards - JavaScript
+# LEMMY PLUGINS
 
-Created by [Lemmygod](https://github.com/lemmygod/lemmy-hovercards) - [LICENSE](https://github.com/lemmygod/lemmy-hovercards/blob/main/LICENSE)
+## [Hovercards](https://github.com/lemmygod/lemmy-hovercards) - JavaScript
 
-[Copy-Paste/ Download](https://github.com/lemmygod/lemmy-hovercards/blob/main/hovercards.user.js)
+**Created by [Lemmygod](https://github.com/lemmygod) - [LICENSE](https://github.com/lemmygod/lemmy-hovercards/blob/main/LICENSE)**
+
+### **[Copy-Paste/ Download](https://github.com/lemmygod/lemmy-hovercards/blob/main/hovercards.user.js)**
+
 
 ![alt text](https://github.com/bluntwizard/Blunted-Themes/blob/main/07ad291d-7fe6-469c-b6c9-a939fb364944.png)
